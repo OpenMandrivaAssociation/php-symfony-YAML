@@ -3,7 +3,7 @@
 Summary:	A PHP library that speaks YAML
 Name:		php-symfony-%{upstream_name}
 Version:	1.0.6
-Release:	%mkrel 3
+Release:	%mkrel 1
 License:	MIT
 Group:		Development/PHP
 URL:		http://pear.symfony-project.com/
@@ -69,3 +69,13 @@ fi
 %{_datadir}/pear/SymfonyComponents/YAML
 %{_datadir}/pear/packages/YAML.xml
 
+
+
+%changelog
+* Wed Nov 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.0.6-1mdv2012.0
++ Revision: 730909
+- import php-symfony-YAML
+
+
+* Wed Nov 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.0.6-1mdv2010.2
+- initial Mandriva package
