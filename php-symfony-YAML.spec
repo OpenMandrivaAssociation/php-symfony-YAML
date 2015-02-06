@@ -3,7 +3,7 @@
 Summary:	A PHP library that speaks YAML
 Name:		php-symfony-%{upstream_name}
 Version:	1.0.6
-Release:	2
+Release:	3
 License:	MIT
 Group:		Development/PHP
 URL:		http://pear.symfony-project.com/
