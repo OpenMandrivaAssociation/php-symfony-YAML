@@ -6,7 +6,7 @@ Version:	1.0.6
 Release:	3
 License:	MIT
 Group:		Development/PHP
-URL:		http://pear.symfony-project.com/
+URL:		https://pear.symfony-project.com/
 Source0:	http://pear.symfony-project.com/get/YAML-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
